@@ -12,8 +12,8 @@ Nowadays, environmental problems are becoming more and more serious and urgent t
 * What is the ratio of country support/cost vs crop production in developed countries ? Could we find other metrics to explain this support ? Should we stop supporting farmers in Switzerland?
 
 # Dataset
-* Global Food & Agriculture Statistics (https://www.kaggle.com/unitednations/global-food-agriculture-statistics)/
-* Cooking recipes (http://infolab.stanford.edu/~west1/from-cookies-to-cooks/recipePages.zip)/
+* Global Food & Agriculture Statistics (https://www.kaggle.com/unitednations/global-food-agriculture-statistics/)
+* Cooking recipes (http://infolab.stanford.edu/~west1/from-cookies-to-cooks/recipePages.zip/)
 
 # A list of internal milestones up until project milestone 2
 1.11.2019
