@@ -19,27 +19,33 @@ Nowadays, environmental problems are becoming more and more serious and urgent t
 1.11.2019
 * Define the required datasets
 * Subdivide the tasks of cleaning these datasets among the members of the group.
+
 7.11.2019
 * Refine the research questions based on first exploration of the data.
 * Generate first meaningful general visualization of the data (general descriptive statistics).
 * Rebalance the workload among the members of the group.
+
 14.11.2019
 * For each research question, develop a strategy to answer it and prepare a first iteration of the code required to extract the information and to present it.
 * Meeting to discuss first results, exchange feedback and ideas.
 * Define a complete data story to present our research and our results in a clean and ordered manner.
 * Update the plan and the balance of the work according to the expected difficulties and the schedule of the group.
+
 21.11.2019
 * Second iteration of the code and the results.
 * Meeting to discuss the results, exchange feedback and ideas.
 * Update of the data story based on the last conclusions.
 * First draft of the final notebook.
+
 25.11.2019
 * Last iteration of the code and the results.
 * Update of the notebook based on the individual and collective work.
 * Review of the results and conclusions.
+
 28.11.2019
 * Last review of the notebook.
 * Final commit for milestone 2.
+
 
 # Questions for TAa
 * Can we decide to reduce our analysis to a few countries if we lack of data ?
