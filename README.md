@@ -7,9 +7,9 @@ Nowadays, environmental problems are becoming more and more serious and urgent t
 * Could we find and support a correlation between greenhouse gas emissions and agricultural growth? Could we also assess the influence of the type of culture on the emissions?
 * Based on this, is it possible to make predictions of greenhouse gas emissions by extrapolating the agricultural growth and land usage?
 * Is it possible to rank some patterns of land usage with social and environmental factors such as employment, life satisfaction (if data are presents), income inequalities (if data are presents), emissions and finally soil quality and sustainability?
-* Could we assign a kind of “eco” score to each recipe from the Stanford cooking recipes based on indicators derived from the main dataset ?
-* Is the temporal evolution of agricultural land always correlated with the temporal evolution of the quantity of fertilizers used (and waste emission) or there’s some point in time where this trend slows or reverses for some countries?
-* What is the ratio of country support/cost vs crop production in developed countries ? Could we find other metrics to explain this support ? Should we stop supporting farmers in Switzerland?
+* Could we assign a kind of “eco” score to each recipe from the Stanford cooking recipes based on indicators derived from the main dataset?
+* Is the temporal evolution of agricultural land always correlated with the temporal evolution of the quantity of fertilizers used (and waste emission) or there is some point in time where this trend slows or reverses for some countries?
+* What is the ratio of country support/cost vs crop production in developed countries? Could we find other metrics to explain this support? Should we stop supporting farmers in Switzerland?
 
 # Dataset
 * Global Food & Agriculture Statistics (https://www.kaggle.com/unitednations/global-food-agriculture-statistics/)
