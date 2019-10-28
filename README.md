@@ -12,10 +12,36 @@ Nowadays, environmental problems are becoming more and more serious and urgent t
 * What is the ratio of country support/cost vs crop production in developed countries ? Could we find other metrics to explain this support ? Should we stop supporting farmers in Switzerland?
 
 # Dataset
-List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
+* Global Food & Agriculture Statistics (https://www.kaggle.com/unitednations/global-food-agriculture-statistics)/
+* Cooking recipes (http://infolab.stanford.edu/~west1/from-cookies-to-cooks/recipePages.zip)/
 
 # A list of internal milestones up until project milestone 2
-Add here a sketch of your planning for the next project milestone.
+1.11.2019
+* Define the required datasets
+* Subdivide the tasks of cleaning these datasets among the members of the group.
+7.11.2019
+* Refine the research questions based on first exploration of the data.
+* Generate first meaningful general visualization of the data (general descriptive statistics).
+* Rebalance the workload among the members of the group.
+14.11.2019
+* For each research question, develop a strategy to answer it and prepare a first iteration of the code required to extract the information and to present it.
+* Meeting to discuss first results, exchange feedback and ideas.
+* Define a complete data story to present our research and our results in a clean and ordered manner.
+* Update the plan and the balance of the work according to the expected difficulties and the schedule of the group.
+21.11.2019
+* Second iteration of the code and the results.
+* Meeting to discuss the results, exchange feedback and ideas.
+* Update of the data story based on the last conclusions.
+* First draft of the final notebook.
+25.11.2019
+* Last iteration of the code and the results.
+* Update of the notebook based on the individual and collective work.
+* Review of the results and conclusions.
+28.11.2019
+* Last review of the notebook.
+* Final commit for milestone 2.
 
 # Questions for TAa
-Add here some questions you have for us, in general or project-specific.
+* Can we decide to reduce our analysis to a few countries if we lack of data ?
+* Can we update the dataset in the process if we find another source of informations ?
+* Could we explore a new question (not previously mentioned in the research questions) if we stumble upon a new interesting subject in the data-exploration phase ?
