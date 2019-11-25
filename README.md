@@ -44,6 +44,7 @@ Nowadays, environmental problems are becoming more and more serious and urgent t
 * Hand-in of the report.
 
 ### A list of internal milestones up until project milestone 2
+
 1.11.2019
 * Define the required datasets
 * Subdivide the tasks of cleaning these datasets among the members of the group.
@@ -74,8 +75,5 @@ Nowadays, environmental problems are becoming more and more serious and urgent t
 * Last review of the notebook.
 * Final commit for milestone 2.
 
-
-
-
-## Questions for TAa
+## Questions for TAs
 
