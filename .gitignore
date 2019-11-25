@@ -1,2 +1,6 @@
 # Mac 
 .DS_Store
+data/current_FAO/*
+data/fao*
+data/fao_data_*
+
